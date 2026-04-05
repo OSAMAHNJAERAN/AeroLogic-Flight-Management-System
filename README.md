@@ -1,4 +1,6 @@
-# ✈️ AeroLogic Flight Management System
+﻿# ✈️ AeroLogic Flight Management System
+
+### 📘 Course Project: TDS6213-DATA STRUCTURES AND ALGORITHMS
 
 [![Language: C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)](https://cplusplus.com/)
 [![Course: Semester 6](https://img.shields.io/badge/Course-Semester_6-blueviolet?style=for-the-badge)]()
