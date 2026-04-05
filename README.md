@@ -18,16 +18,16 @@ The **AeroLogic Flight Management System** is a sophisticated console applicatio
 
 ## 📷 Screenshots
 
-![Main Menu Operations](assets/screenshot_1.png)
+![Main Menu Operations](media/flight_sys1.png)
 *Figure 1: Main interactive node manipulation menu.*
 
-![Flight Operations](assets/screenshot_2.png)
+![Flight Operations](media/flight_sys2.png)
 *Figure 2: Viewing the real-time manifest built dynamically in memory.*
 
-![Passenger Tracking](assets/screenshot_3.png)
+![Passenger Tracking](media/flight_sys3.png)
 *Figure 3: Details on passenger booking queues.*
 
-![System Diagnostics](assets/screenshot_4.png)
+![System Diagnostics](media/flight_sys4.png)
 *Figure 4: Core flight metrics calculated through linked list traversal.*
 
 ## 📂 Project Structure
